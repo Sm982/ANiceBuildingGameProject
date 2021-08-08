@@ -1,0 +1,3 @@
+fix /report not sending to moderators
+
+fix /crystalseedevent and the timing of sending the gamepacket_t at an interval.
